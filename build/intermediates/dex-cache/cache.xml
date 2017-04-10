@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rakshakhegde/.android/build-cache/5d81a8dca8e3192c328b01757b930117eae4a949/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/rakshakhegde/Documents/Personal/AndroidProjects/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes_784f01c6d414b6b2957838581ebff986f85351ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rakshakhegde/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/rakshakhegde/Documents/Personal/AndroidProjects/ViewPagerDemo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0_ff45a46b71032782f9f92f2e1a59476c310323ff.jar" />
+    </item>
+
+</items>
